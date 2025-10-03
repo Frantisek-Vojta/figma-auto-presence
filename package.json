@@ -1,0 +1,40 @@
+{
+  "name": "figma-auto-presence",
+  "version": "2.0.0",
+  "description": "Automatic Figma file detection for Discord Rich Presence - by @uwayxt",
+  "main": "src/index.js",
+  "bin": {
+    "figmaway": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js start",
+    "setup": "node bin/cli.js setup",
+    "test": "node bin/cli.js test"
+  },
+  "keywords": [
+    "figma",
+    "discord",
+    "rich-presence",
+    "rpc",
+    "status",
+    "automatic",
+    "figma-auto-presence",
+    "uwayxt"
+  ],
+  "author": "@uwayxt",
+  "license": "MIT",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uwayxt/figma-auto-presence"
+  },
+  "bugs": {
+    "url": "https://github.com/uwayxt/figma-auto-presence/issues"
+  },
+  "homepage": "https://github.com/uwayxt/figma-auto-presence#readme"
+}

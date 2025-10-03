@@ -1,0 +1,10 @@
+{
+  "clientId": "your-discord-application-id-here",
+  "details": "📐 Working on design",
+  "state": "Designing in Figma",
+  "largeImageKey": "figma",
+  "largeImageText": "Figma",
+  "smallImageKey": "",
+  "smallImageText": "",
+  "buttons": []
+}
