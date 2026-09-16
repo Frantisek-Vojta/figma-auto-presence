@@ -23,7 +23,7 @@ function question(query) {
 function showHelp() {
   console.log(`
 ╔═══════════════════════════════════════════════════════════╗
-║        Figma Auto Presence - Discord Rich Presence       ║
+║        Figma Auto Presence - Discord Rich Presence        ║
 ║                    by @uwayxt                             ║
 ╚═══════════════════════════════════════════════════════════╝
 
@@ -67,7 +67,7 @@ NPM: https://www.npmjs.com/package/figma-auto-presence
 
 async function setup() {
   console.log('\n╔═══════════════════════════════════════════════════════════╗');
-  console.log('║           Figma Auto Presence - Setup Wizard             ║');
+  console.log('║            Figma Auto Presence - Setup Wizard             ║');
   console.log('║                    by @uwayxt                             ║');
   console.log('╚═══════════════════════════════════════════════════════════╝\n');
 
@@ -163,7 +163,7 @@ async function startPresence() {
   }
 
   console.log('\n╔═══════════════════════════════════════════════════════════╗');
-  console.log('║          Starting Figma Auto Presence...                 ║');
+  console.log('║          Starting Figma Auto Presence...                  ║');
   console.log('║                    by @uwayxt                             ║');
   console.log('╚═══════════════════════════════════════════════════════════╝\n');
 
